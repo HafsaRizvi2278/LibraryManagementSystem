@@ -1,12 +1,12 @@
 
 
-# *Library Management System (LMS) 📚*  
+# Library Management System (LMS) 📚  
 
 A *Java-based Library Management System* built using *Swing and MVC architecture*, allowing administrators to manage books and members while providing members with search and view access.  
 
 ## *Features* 🚀  
 
-### *1. User Roles & Permissions*  
+### 1. User Roles & Permissions  
 - *Admin*:  
   ✅ Add, edit, delete books and members.  
   ✅ View all books and members.  
@@ -15,14 +15,14 @@ A *Java-based Library Management System* built using *Swing and MVC architecture
   ✅ Search and view books.  
   ✅ No modification privileges.  
 
-### *2. Core Functionalities*  
+### 2. Core Functionalities 
 ✔ *Book Management* (Add, Edit, Delete, View books).  
 ✔ *Member Management* (Add, Edit, Delete, View members).  
 ✔ *Login System* (Role-based authentication).  
 ✔ *Dynamic Data Synchronization* (JTable updates in real-time).  
 ✔ *Role-Based Access Control* (Admin vs. Member permissions).  
 
-### *3. Tech Stack*  
+### 3. Tech Stack  
 🔹 *Java Swing* – GUI framework.  
 🔹 *JTable* – Displays books and members dynamically.  
 🔹 *MVC Pattern* – Separates logic, UI, and data.  
@@ -32,7 +32,7 @@ A *Java-based Library Management System* built using *Swing and MVC architecture
 
 ---
 
-## *Database Setup (MySQL) 🗄*  
+## Database Setup (MySQL) 🗄  
 
 ### *Step 1: Create Database*  
 Open MySQL and run:  
@@ -78,7 +78,7 @@ INSERT INTO books (title, author, isbn, available) VALUES
 
 ---
 
-## *Connect Java to MySQL (JDBC) 🖧*  
+## Connect Java to MySQL (JDBC) 🖧 
 
 1. *Download MySQL Connector/J* from: [MySQL Connector/J](https://dev.mysql.com/downloads/connector/j/)  
 2. Add the *JAR file* to your *NetBeans* project:  
@@ -103,7 +103,7 @@ public class DatabaseConnection {
 
 ---
 
-## *Screenshots* 📸  
+## Screenshots 📸  
 
  ![image](https://github.com/user-attachments/assets/b4f64afb-ef9e-43d3-9df3-86b1cc39fa46)
  ![image](https://github.com/user-attachments/assets/c0e1b09c-835f-4003-98d1-b4fffde36954)
@@ -124,7 +124,7 @@ public class DatabaseConnection {
 
 1. Clone the repository:  
    bash
-   git clone https://github.com/your-username/Library-Management-System.git
+   git clone (https://github.com/HafsaRizvi2278/LibraryManagementSystem).git
    cd Library-Management-System
      
 2. Import into *NetBeans* or any Java IDE.  
