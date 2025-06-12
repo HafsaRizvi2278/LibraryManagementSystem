@@ -101,16 +101,15 @@ git clone https://github.com/HafsaRizvi2278/LibraryManagementSystem.git
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="./resources/screenshots/Screenshot_12-6-2025_65359_.jpeg" alt="Library Management System Screenshot" width="600"/>
-</p>
+![Library Management System](https://github.com/user-attachments/assets/745aad1e-bfd8-4d8b-8754-981f88e778c2)
+
 ---
 
 ## 👤 Author
 
-**Your Name**
+**HafsaRizvi**
 🎨 Designed and Developed
-📧 [HafsaRizvi](mailto:rizvihafsa100@gmail.com)
+📧 [Gmail](mailto:rizvihafsa100@gmail.com)
 🔗 [GitHub](https://github.com/HafsaRizvi2278/)
 
 ---
